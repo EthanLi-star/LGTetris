@@ -2,7 +2,7 @@
 
 A classic Tetris game built with SwiftUI, designed for iPhone and iPad.
 
-![screenshot](IMG_5143-2.png)
+<img src="IMG_5143-2.png" width="300" />
 
 ## Features
 
